@@ -1,16 +1,10 @@
-## Hi there 👋
+- ✋ Merhaba, ben Bahadır Bilal. Elektrik mühendisiyim ve yazılım alanında da kendimi geliştiriyorum. İşte benim hakkımda bazı bilgiler:
 
+- 🌱 Şu anda React front-end ve javascrıpt konularına odaklanıyorum.
+- 💡 Elektrik mühendisliği alanındaki bilgilerimi yazılım dünyasına aktarmaya çalışıyorum.
+- 🚀 Sürekli öğrenmeye ve yeni projeler yapmaya hevesliyim.
+- 📫 Benimle iletişime geçmek isterseniz, camcibahadir0@gmail.com adresinden bana ulaşabilirsiniz.
+- 🌟 Favori teknolojilerim: React, Artificial İntelligence (AI) ve Javascript
+- 🎮 Hobilerim: Oyun oynamak, sevdiklerimle vakit geçirmek ve yeni teknolojileri araştırmak.
 
-**bahadircamc/bahadircamc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Javascript.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+Teşekkür ederim ve kodlamaya devam edin! 😊
