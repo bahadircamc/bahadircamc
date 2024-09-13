@@ -10,7 +10,7 @@
 Teşekkür ederim ve kodlamaya devam edin! 😊
 
 
-<h3 align="center">Hindistan'dan tutkulu bir ön uç geliştiricisi</h3>
+<h3 align="center">Türkiyeden tutkulu bir ön uç geliştiricisi</h3>
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
