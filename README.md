@@ -1,6 +1,6 @@
-- ✋ Merhaba, ben Bahadır Bilal. Elektrik mühendisiyim ve yazılım alanında da kendimi geliştiriyorum. İşte benim hakkımda bazı bilgiler:
+- ✋ Merhaba, ben Bahadır Bilal. Kendimi Fullstack Developer olma yolunda geliştiren bir Elektrik Mühendisiyim. İşte benim hakkımda bazı bilgiler:
 
-- 🌱 Şu anda React front-end ve javascrıpt konularına odaklanıyorum.
+- 🌱 Şu anda React front-end ve javascript konularına odaklanıyorum.
 - 💡 Elektrik mühendisliği alanındaki bilgilerimi yazılım dünyasına aktarmaya çalışıyorum.
 - 🚀 Sürekli öğrenmeye ve yeni projeler yapmaya hevesliyim.
 - 📫 Benimle iletişime geçmek isterseniz, camcibahadir0@gmail.com adresinden bana ulaşabilirsiniz.
