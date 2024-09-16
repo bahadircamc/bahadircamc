@@ -18,6 +18,6 @@ Teşekkür ederim ve kodlamaya devam edin! 😊
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" genişlik="40" yükseklik="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" genişlik="40" yükseklik="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" genişlik="40" yükseklik="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" genişlik="40" yükseklik="40"/> </a> </p>
+
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=bahadircamc&show_icons=true&locale=tr" alt="bahadircamc" /></p>
